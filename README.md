@@ -1,6 +1,6 @@
 校园账号分享APP界面UI设计
 
-#Software interface design/UI
+Software interface design/UI
 
 Design of campus broadband account sharing software interface
 
